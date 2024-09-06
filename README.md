@@ -14,12 +14,7 @@ This project focuses on analyzing Olympic Games data using SQL queries in Jupyte
 The dataset "120 years of Olympic history: athletes and results" is available on [Kaggle](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results?select=athlete_events.csv). It contains data on athletes and their Olympic results over the past 120 years, loaded into a local PostgreSQL database.
 
 ## Methodology
-SQL queries, including SELECT, FROM, WHERE, GROUP BY, and ORDER BY, are used for data analysis. Results are presented interactively in Jupyter Notebook.
-
-## Results
-- Developed SQL querying skills for Olympic data analysis.
-- Provided insights on Olympic events and participating countries.
-- Identified top medal-winning countries and overall medal counts.
+SQL queries, including SELECT, FROM, WHERE, GROUP BY, ORDER BY and other, are used for data analysis. Results are presented in Jupyter Notebook.
 
 ## Tools and Technologies
 - SQL: for query writing and data analysis.
