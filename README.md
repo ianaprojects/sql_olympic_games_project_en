@@ -3,7 +3,7 @@
 
 ## Project Description
 This project focuses on analyzing Olympic Games data using SQL queries in Jupyter Notebook. The goal is to demonstrate skills in SQL for data extraction, filtering, grouping, and aggregation.
-
+[Link to the code in Jupyter Notebook](https://github.com/ianaprojects/sql_olympic_games_project_en/blob/main/olympic_games_project_en.ipynb)
 ## Objectives
 - Practice writing SQL queries.
 - Analyze Olympic Games data.
